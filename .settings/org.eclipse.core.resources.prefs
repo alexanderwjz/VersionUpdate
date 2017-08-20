@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/alexander/servlet/GetVersionInfo.java=UTF-8
+encoding//src/com/alexander/servlet/UploadApkServlet.java=UTF-8
+encoding//src/com/alexander/servlet/WriterJson.java=UTF-8
+encoding//src/com/alexander/util/JsonUtil.java=UTF-8
